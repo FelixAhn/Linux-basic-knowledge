@@ -1,1 +1,1 @@
-# Linux-knowledge
+# 리눅스 기초 지식
