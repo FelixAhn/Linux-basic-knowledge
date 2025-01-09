@@ -8,7 +8,7 @@
     * Ctrl + a
     * Ctrl + e
     * Ctrl + r
-* [파일 시스템 관련](/리눅스명령어/파일%20시스템%20관련.md)
+* [파일 시스템](/리눅스명령어/파일%20시스템.md)
     * cd
     * ls
     * df
@@ -19,7 +19,7 @@
     * mount
     * unmount
     * stat
-* [파일관련 명령어](/리눅스명령어/파일관련%20명령어.md)
+* [파일](/리눅스명령어/파일.md)
     * touch
     * cat
     * head
@@ -33,3 +33,9 @@
     * paste
     * dd
     * tar
+* [프로세스](/리눅스명령어/프로세스.md)
+    * ps
+    * pstree
+    * top
+    * nohup
+    * kill
