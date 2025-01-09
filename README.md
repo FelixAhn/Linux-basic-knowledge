@@ -39,3 +39,14 @@
     * top
     * nohup
     * kill
+* [네트워크](/리눅스명령어/네트워크.md)
+    * ifconfig
+    * ip
+    * netstat
+    * ss
+    * iptables
+    * ufw
+    * ping
+    * wget
+    * curl
+    * route
