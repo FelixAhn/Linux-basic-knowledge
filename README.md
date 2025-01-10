@@ -50,3 +50,8 @@
     * wget
     * curl
     * route
+* [검색 및 탐색](/리눅스명령어/검색%20및%20탐색.md)
+    * find
+    * which
+    * grep
+    * histroy
