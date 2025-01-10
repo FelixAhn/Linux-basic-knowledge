@@ -55,3 +55,9 @@
     * which
     * grep
     * histroy
+* [I/O](/리눅스명령어/IO.md)
+    * redirection
+    * echo
+    * chmod
+    * chown
+    * who
