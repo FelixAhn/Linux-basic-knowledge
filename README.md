@@ -2,7 +2,7 @@
 ![linux](/linux.png)
 
 
-### 리눅스 명령어 
+## 리눅스 명령어 
 * [유용한 단축키](/리눅스명령어/유용한%20단축키.md)
     * Ctrl + c
     * Ctrl + a
@@ -61,3 +61,9 @@
     * chmod
     * chown
     * who
+* [기타](/리눅스명령어/기타.md)
+    * date
+    * seq
+    * more
+    * watch
+    * crontab
