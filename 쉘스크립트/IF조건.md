@@ -58,7 +58,7 @@ vi nginx_stop.sh
 ----------------------------
 #!/bin/bash
 
-# nginx stop할 때의 로직
+## nginx stop할 때의 로직
 PID="/run/nginx.pid"
 
 if [ -e "${PID}"]; then
@@ -92,12 +92,12 @@ fi
 ```bash
 vi composite.sh
 
-# AND 조건(-a)
+## AND 조건(-a)
 [ 조건1 -a 조건2 -a 조건3 ]
 
-# OR조건 (-o)
+## OR조건 (-o)
 [ 조건1 -o 조건2 -o 조건3 ]
 
-# 복합 조건
+## 복합 조건
 [ 조건1 -a 조건2 -o 조건3 ]
 ```

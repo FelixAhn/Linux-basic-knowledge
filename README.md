@@ -79,9 +79,11 @@
 * [AND / OR 조건](/쉘스크립트/AND_OR조건.md)
     * AND ( && )
     * OR ( || )
-* [If 조건](/쉘스크립트/IF조건.md)
-    * IF ( if, elif, else)
+* [IF 조건](/쉘스크립트/IF조건.md)
+    * IF (if, elif, else)
     * 비교문표 (숫자, 문자, 파일)
+* [CASE 조건](/쉘스크립트/CASE조건.md)
+    * CASE (case 변수 in) 
 
 <br>
 
