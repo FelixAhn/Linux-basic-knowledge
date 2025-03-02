@@ -86,7 +86,10 @@
     * CASE (case 변수 in) 
 * [반복문](/쉘스크립트/반복문.md)
     * For
-    * While
+    * While\
+* [함수](/쉘스크립트/Function.md)
+    * function
+    * source
 
 <br>
 
