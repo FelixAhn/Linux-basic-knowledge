@@ -85,7 +85,8 @@
 * [CASE 조건](/쉘스크립트/CASE조건.md)
     * CASE (case 변수 in) 
 * [반복문](/쉘스크립트/반복문.md)
-    * for, while
+    * For
+    * While
 
 <br>
 
