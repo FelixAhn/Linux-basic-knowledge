@@ -86,11 +86,11 @@
     * CASE (case 변수 in) 
 * [반복문](/쉘스크립트/반복문.md)
     * For
-    * While\
-* [함수](/쉘스크립트/Function.md)
+    * While
+* [함수](/쉘스크립트/함수.md)
     * function
     * source
-
+* [배열&리다이렉션](/쉘스크립트/배열_리다이렉션.md)
 <br>
 
 ## CLI 편집기
